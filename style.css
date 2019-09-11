@@ -1,0 +1,33 @@
+.Box1{
+    background-color: rgb(75, 75, 255);
+    width: 550px;
+    height: 450px;
+}
+.Box2{
+    background-color: rgb(255, 128, 0);
+    width: 300px;
+    height: 250px;
+}
+.box1nested{
+    background-color: rgb(128, 0, 255);
+    width: 450px;
+    height: 150px;
+    line-height: 100px;
+    align-self: center;
+    }
+.box2nested{
+    background-color: blue;
+    width: 100px;
+    height: 70px;
+    align-self: center;
+    }
+.divtag{
+    background-color: gray;
+    width: 680px;
+    height: 500px;
+}
+.saydiv{
+    background-color: yellow;
+    width: 450px;
+    height: 300px;
+}
