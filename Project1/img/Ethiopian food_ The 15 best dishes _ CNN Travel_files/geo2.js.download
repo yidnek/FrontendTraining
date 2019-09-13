@@ -1,0 +1,16 @@
+(function(){
+  window['optimizely'] = window['optimizely'] || [];
+  window['optimizely'].push(['activateGeoDelayedExperiments', {
+    'location':{
+      'city': "ADISABEBA",
+      'continent': "AF",
+      'country': "ET",
+      'region': ""
+    },
+    'ip':"196.188.157.40"
+  }]);
+})
+//
+()
+
+;
